@@ -1,0 +1,4 @@
+domain,grid,point_mm,box_0.25deg_mean_mm,max_within_25km_mm,max_within_50km_mm,area_max_mm,area_max_lat,area_max_lon,area_max_dist_km
+d01,27 km,13.2,13.2,13.2,49.9,237.7,17.54,73.69,194.0
+d02,9 km,5.3,9.0,23.9,96.4,417.4,19.4,73.77,103.0
+d03,3 km,4.5,9.9,32.6,124.7,518.2,19.43,73.72,99.0

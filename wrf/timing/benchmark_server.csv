@@ -1,0 +1,27 @@
+date,machine,cpu,nprocs,case,step,seconds,peak_ram_mb
+2026-10-16_10:57:59,csewsrm10,"Intel(R) Core(TM) i9-14900",4,mumbai2005_late,real,7,2350
+2026-10-16_17:45:03,csewsrm10,"Intel(R) Core(TM) i9-14900",4,scale_32,real,5,3703
+2026-10-16_18:06:18,csewsrm10,"Intel(R) Core(TM) i9-14900",32,scale_32,wrf,1275,9748
+2026-10-16_18:06:26,csewsrm10,"Intel(R) Core(TM) i9-14900",4,scale_24,real,5,0
+2026-10-16_18:30:59,csewsrm10,"Intel(R) Core(TM) i9-14900",24,scale_24,wrf,1473,8597
+2026-10-16_18:31:06,csewsrm10,"Intel(R) Core(TM) i9-14900",4,scale_16,real,4,0
+2026-10-16_19:01:00,csewsrm10,"Intel(R) Core(TM) i9-14900",16,scale_16,wrf,1794,6874
+2026-10-16_19:01:07,csewsrm10,"Intel(R) Core(TM) i9-14900",4,scale_8,real,4,0
+2026-10-16_19:17:49,csewsrm10,"Intel(R) Core(TM) i9-14900",8,scale_8,wrf,1002,5213
+2026-10-17_03:57:52,csewsrm10,"Intel(R) Core(TM) i9-14900",4,pin_P8,real,4,0
+2026-10-17_04:13:39,csewsrm10,"Intel(R) Core(TM) i9-14900",8,pin_P8,wrf,947,5011
+2026-10-17_04:13:44,csewsrm10,"Intel(R) Core(TM) i9-14900",4,pin_P4,real,4,0
+2026-10-17_04:36:50,csewsrm10,"Intel(R) Core(TM) i9-14900",4,pin_P4,wrf,1386,3867
+2026-10-17_04:36:55,csewsrm10,"Intel(R) Core(TM) i9-14900",4,pin_P16ht,real,5,0
+2026-10-17_04:53:48,csewsrm10,"Intel(R) Core(TM) i9-14900",16,pin_P16ht,wrf,1013,6557
+2026-10-17_04:53:54,csewsrm10,"Intel(R) Core(TM) i9-14900",4,pin_E16,real,5,3733
+2026-10-17_05:22:48,csewsrm10,"Intel(R) Core(TM) i9-14900",16,pin_E16,wrf,1734,6589
+2026-10-17_05:22:52,csewsrm10,"Intel(R) Core(TM) i9-14900",4,pin_P8E16,real,4,0
+2026-10-17_05:48:06,csewsrm10,"Intel(R) Core(TM) i9-14900",24,pin_P8E16,wrf,1514,8451
+2026-10-21_19:20:16,csewsrm10,"Intel(R) Core(TM) i9-14900",4,mumbai2005_nudge,real,10,3788
+2026-10-21_20:58:04,csewsrm10,"Intel(R) Core(TM) i9-14900",8,mumbai2005_nudge,wrf,5868,5197
+2026-10-21_20:58:15,csewsrm10,"Intel(R) Core(TM) i9-14900",4,mumbai2005_nocu9,real,6,3678
+2026-10-21_22:53:43,csewsrm10,"Intel(R) Core(TM) i9-14900",4,mumbai2005_nocu9,real,7,0
+2026-10-22_00:26:14,csewsrm10,"Intel(R) Core(TM) i9-14900",8,mumbai2005_nocu9,wrf,5551,0
+2026-10-22_16:27:06,csewsrm10,"Intel(R) Core(TM) i9-14900",4,kerala2018,real,11,3727
+2026-10-22_21:17:19,csewsrm10,"Intel(R) Core(TM) i9-14900",8,kerala2018,wrf,17413,5932

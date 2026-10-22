@@ -1,0 +1,14 @@
+date,machine,cpu,nprocs,case,step,seconds,peak_ram_mb
+2026-10-13_09:00:36,Arijit,"Intel(R) Core(TM) Ultra 9 185H",1,mumbai2005,geogrid,15,
+2026-10-13_09:00:40,Arijit,"Intel(R) Core(TM) Ultra 9 185H",1,mumbai2005,ungrib,4,
+2026-10-13_09:01:26,Arijit,"Intel(R) Core(TM) Ultra 9 185H",1,mumbai2005,metgrid,46,
+2026-10-13_09:07:24,Arijit,"Intel(R) Core(TM) Ultra 9 185H",4,mumbai2005,real,6,3728
+2026-10-13_13:32:11,Arijit,"Intel(R) Core(TM) Ultra 9 185H",16,mumbai2005,wrf,15887,8922
+2026-10-14_07:31:17,Arijit,"Intel(R) Core(TM) Ultra 9 185H",4,mumbai2005_late,real,5,3695
+2026-10-14_10:13:53,Arijit,"Intel(R) Core(TM) Ultra 9 185H",16,mumbai2005_late,wrf,9756,8911
+2026-10-14_10:14:02,Arijit,"Intel(R) Core(TM) Ultra 9 185H",4,mumbai2005_thompson,real,9,2271
+2026-10-14_14:00:58,Arijit,"Intel(R) Core(TM) Ultra 9 185H",16,mumbai2005_thompson,wrf,13616,14718
+2026-10-16_13:26:22,Arijit,"Intel(R) Core(TM) Ultra 9 185H",4,mumbai2005_nudge,real,12,3324
+2026-10-22_09:52:43,Arijit,"Intel(R) Core(TM) Ultra 9 185H",1,kerala2018,geogrid,6,
+2026-10-22_09:52:47,Arijit,"Intel(R) Core(TM) Ultra 9 185H",1,kerala2018,ungrib,4,
+2026-10-22_09:53:26,Arijit,"Intel(R) Core(TM) Ultra 9 185H",1,kerala2018,metgrid,39,

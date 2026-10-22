@@ -1,0 +1,5 @@
+workers,threads_per_worker,total_threads,epoch_time_s,samples_per_s,val_NSE,speedup,efficiency_pct,machine,cpu,mode
+1,1,1,120.59,8.5,0.231,1.0,100.0,csewsrm10,Intel(R) Core(TM) i9-14900,grow
+2,1,2,63.09,16.2,0.231,1.91,96.0,csewsrm10,Intel(R) Core(TM) i9-14900,grow
+4,1,4,32.14,31.9,0.231,3.75,94.0,csewsrm10,Intel(R) Core(TM) i9-14900,grow
+8,1,8,17.99,56.9,0.231,6.7,84.0,csewsrm10,Intel(R) Core(TM) i9-14900,grow

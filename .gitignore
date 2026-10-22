@@ -1,0 +1,9 @@
+*.grib
+*.grd
+met_em*
+wrfout*
+wrfrain*
+wrfinput*
+wrfbdy*
+*.whl
+data/

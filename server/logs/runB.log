@@ -1,0 +1,5 @@
+nohup: ignoring input
+== real.exe ==
+   -> real took 7 s (0 min), extra RAM used ~2350 MB
+== wrf.exe on 16 cores (this is the long one; follow progress with:  tail -f /users/misc/arijitv24/wrf/cases/mumbai2005_late/run/rsl.error.0000) ==
+wrf.exe FAILED - send me the last 50 lines of /users/misc/arijitv24/wrf/cases/mumbai2005_late/run/rsl.error.0000

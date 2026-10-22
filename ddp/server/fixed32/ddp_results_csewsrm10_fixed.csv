@@ -1,0 +1,7 @@
+workers,threads_per_worker,total_threads,epoch_time_s,samples_per_s,val_NSE,speedup,efficiency_pct,machine,cpu,mode
+1,32,32,112.69,36.3,0.702,1.0,,csewsrm10,Intel(R) Core(TM) i9-14900,fixed
+2,16,32,107.31,38.2,0.702,1.05,,csewsrm10,Intel(R) Core(TM) i9-14900,fixed
+4,8,32,90.61,45.2,0.702,1.24,,csewsrm10,Intel(R) Core(TM) i9-14900,fixed
+8,4,32,78.81,52.0,0.702,1.43,,csewsrm10,Intel(R) Core(TM) i9-14900,fixed
+16,2,32,68.9,59.5,0.702,1.64,,csewsrm10,Intel(R) Core(TM) i9-14900,fixed
+32,1,32,57.63,71.1,0.702,1.96,,csewsrm10,Intel(R) Core(TM) i9-14900,fixed

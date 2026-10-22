@@ -1,0 +1,19 @@
+nohup: ignoring input
+D OK
+slimmed wrfout_d02_2005-07-26_00:00:00: 4.9M
+slimmed wrfout_d03_2005-07-26_00:00:00: 2.7M
+1.8G	/users/misc/arijitv24
+=== rerun E Wednesday 21 October 2026 10:53:36 PM IST ===
+== real.exe ==
+awk: (FILENAME=- FNR=3) warning: error writing standard output: Disk quota exceeded
+   -> real took 7 s (0 min), extra RAM used ~0 MB
+== wrf.exe on 8 cores (this is the long one; follow progress with:  tail -f /users/misc/arijitv24/wrf/cases/mumbai2005_nocu9/run/rsl.error.0000) ==
+   -> wrf took 5551 s (92 min), extra RAM used ~0 MB
+
+WRF finished. Output files:
+  wrfout_d01_2005-07-26_00:00:00  205M
+  wrfout_d02_2005-07-26_00:00:00  1.3G
+  wrfout_d03_2005-07-26_00:00:00  1.3G
+Timing saved in /users/misc/arijitv24/wrf/benchmark.csv
+4.5G	/users/misc/arijitv24
+all done Thursday 22 October 2026 12:26:19 AM IST
